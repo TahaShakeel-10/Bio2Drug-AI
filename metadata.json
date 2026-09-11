@@ -1,0 +1,10 @@
+{
+  "name": "Bio2Drug AI",
+  "description": "AI-assisted natural-product drug-discovery platform converting biological materials and agricultural waste into prioritized, evidence-backed research hypotheses.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
